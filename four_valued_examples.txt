@@ -3,4 +3,4 @@ F r -> G F n
 r -> <>u
 G (r -> !u U n)
 r -> !u U n
-G F r || !(!n && X b)
+G F r || (!n -> X !b)
